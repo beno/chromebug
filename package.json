@@ -1,0 +1,18 @@
+{
+  "name": "ChromeBug",
+  "version": "1.0.0",
+  "description": "strange bug",
+  "main": "index.js",
+  "dependencies": {
+    "can": "^2.2.6",
+    "jquery": "^2.1.4",
+    "steal": "^0.10.5"
+  },
+  "devDependencies": {
+    "steal-tools": "^0.10.5"
+  },
+  "scripts": {},
+  "author": "michel@415.network",
+  "license": "ISC",
+  "system": {}
+}
